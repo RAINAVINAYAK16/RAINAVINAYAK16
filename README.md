@@ -1,170 +1,24 @@
-<div align="center">
-  <img src="./github-header-image (5).png">
-</div>
+<p><img src = "github-header-image (5).png"></p>
 
-###
-
-<div align="center">
-  <a href="https://in.linkedin.com/in/vinayak-raina-08a71a253/ms?trk=public_post_feed-actor-name" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://mail.google.com/mail/u/?authuser=vraina03@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-  <a href="https://discordapp.com/users/Alphabet1610/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=RAINAVINAYAK16.RAINAVINAYAK16&"  />
-</div>
-
-###
-
-<h3 align="center">Yello, I'm Vinayak and I'm a CSE Major from India :)</h3>
-
-###
-
-<h4 align="left">👩‍💻  What I do</h4>
-
-###
-
-<p align="left">- 🔭 I’m currently working on MERN Stack Development.<br>- 🌱 Learning Cloud Computing, Data Science and Competitive Programming.<br>- 👯 Looking to collaborate on majorly full stack development projects. Adios!</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="node logo" />
-  <img width="12" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" height="40" alt="express logo" />
-  <img width="12" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" height="40" alt="mongodb logo" />
-  <img width="12" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" height="40" alt="postmanapi logo" />
-  <img width="12" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Cloudflare-Dark.svg" height="40" alt="cloudflare logo" />
-  <img width="12" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vite-Dark.svg" height="40" alt="vite logo" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Light.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LaTeX-Light.svg" height="40" alt="latex logo"  />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="40" alt="rstudio logo"  />
-  <img width="12" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Ubuntu-Dark.svg" height="40" alt="ubuntu logo"  />
-  <img width="12" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Windows-Dark.svg" height="40" alt="windows logo"  />
-  <img width="12" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Powershell-Dark.svg" height="40" alt="powershell logo"  />
-  <img width="12" />
-
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg" height="40" alt="aws logo" />
-  <img width="12" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Replit-Dark.svg" height="40" alt="replit logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/moodle/moodle-original.svg" height="40" alt="moodle logo"  />
-  <img width="12" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Discord.svg" height="40" alt="discord logo" />
-  <img width="12" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg" height="40" alt="gmail logo" />
-  <img width="12" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" height="40" alt="linkedin logo" />
-  <img width="12" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Notion-Dark.svg" height="40" alt="notion logo" />
-  <img width="12" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/StackOverflow-Dark.svg" height="40" alt="overflow logo" />
-  <img width="12" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Twitter.svg" height="40" alt="twitter logo" />
-  <img width="12" />
-</div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=RAINAVINAYAK16&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
+# 💫 About Me:
+🔭 I’m currently working on MERN Stack Development.<br>🌱 Learning Cloud Computing, Data Science and Competitive Programming.<br>👯 Looking to collaborate on majorly full stack development projects.
 
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vinayak-raina) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vraina03@gmail.com) 
+
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=RAINAVINAYAK16&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=RAINAVINAYAK16&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RAINAVINAYAK16&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=RAINAVINAYAK16&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
+---
+[![](https://visitcount.itsvg.in/api?id=RAINAVINAYAK16&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
-
-
-
-
-
-
-<!--Yello, I'm Vinayak and I'm a CSE Major from India :)
-
-- 🔭 I’m currently working on MERN Stack Development.
-- 🌱 Learning Cloud Computing, Data Science and Competitive Programming.
-- 👯 Looking to collaborate on majorly full stack development projects. Adios!
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RAINAVINAYAK16&theme=radical&card_width=400)](https://git.io/streak-stats)
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RAINAVINAYAK16&layout=compact&theme=radical&card_width-400)](https://github.com/RAINAVINAYAK16/github-readme-stats)
-
-<!--[![Vinayak's GitHub stats](https://github-readme-stats.vercel.app/api?username=RAINAVINAYAK16&theme=radical&card_width=400)](https://github.com/RAINAVINAYAK16/github-readme-stats)
-
-
-
-<!-- Add languages used card, all languages and stacks I know and contact me icons>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
